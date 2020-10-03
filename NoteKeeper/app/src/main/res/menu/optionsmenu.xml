@@ -11,6 +11,7 @@
         android:id="@+id/menu_next"
         android:icon="@android:drawable/ic_media_next"
         android:title="Next"
+        android:visible="false"
         app:showAsAction="ifRoom|withText" />
     <item android:title= "Send as Email"
             android:id="@+id/menu_send"/>
